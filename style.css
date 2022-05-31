@@ -1,0 +1,107 @@
+.h-body{
+    margin-top: 10px;
+    background-color:lightgray;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.logo{
+    width: 220px; 
+    height: 220px;
+    margin-right: 50%;
+}
+.navbar-nav{
+    margin-left: 450px;
+    margin-right: 450px;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    
+}
+.navbar-collapse{
+    background-color:lighgrey;
+}
+.indexbody{
+
+        background-image: url("images/bcg.png");
+        background-repeat: no-repeat;
+        background-attachment:fixed;
+        background-size: 90%;
+}
+.card-deck{
+    margin-top: 10%;
+    margin-bottom: 20%;
+}
+.card-title{
+    background-color:lightgoldenrodyellow;
+    font-style: oblique;
+}
+.card:hover{
+    transform: scale(1.1);
+}
+.social{
+    margin-top: 80px;
+    margin-left: 900px;
+}
+img{
+    width: 100%;
+ }
+.container{
+       border: ridge gray;
+       padding-bottom: 30px;
+       padding-top: 10px;
+       padding-left: 10px;
+       padding-right: 10px;
+       background-color: snow;
+       margin-top: 20px;
+       margin-bottom: 80px;
+}
+.media-content{
+    font-family:Garamond, serif;
+    font-size: 20px;
+}
+
+.log-body{
+    background-image: url("./images/loginbcg.jpg");
+    background-attachment: fixed;
+    padding-top: 20px;
+}
+.submitbtn{
+    margin-left: 290px;
+}
+.newmemberbtn{
+    margin-left: 50px;
+}
+.container1{
+    padding-top: 10%;
+    margin-left: 50px;
+}
+.form-group{
+    margin-left: 50px;
+}
+.regtitle{
+    margin-left: 15%;
+    margin-top: 40px;
+}
+.signup{
+    margin-left: 10%;
+}
+.regbody{
+    padding-bottom: 20%;
+    background-image: url(./images/loginbcg.jpg);
+}   
+.form-check{
+    margin-right: 80%;
+    margin-top: 30px;
+}
+.btn{
+    margin-right: 90%;
+}
+#upload{
+    margin-left: 40px;
+}
+#message{
+    font-size: 10px;
+    font-weight: bolder;
+    text-align: center;
+}
